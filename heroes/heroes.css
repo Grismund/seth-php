@@ -21,5 +21,30 @@ html, body, main {
   background-image: url(../assets/images/background-phone-app-desktop.jpg);
   background-repeat:no-repeat;
   background-size:cover;
-  background-position:center right;
+  background-position:center left;
+  overflow: auto;
+}
+
+.banner-content {
+  padding: 15%;
+}
+
+.text {
+  color: white
+}
+
+.button {
+
+  background-color: #cea857;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  border-radius: 30px;
+  width: 200px;
+
 }

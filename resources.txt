@@ -1,0 +1,23 @@
+Installed PHP and set env variable
+
+Passing data from <input> to php.
+https://ostraining.com/blog/coding/retrieve-html-form-data-with-php/
+
+Twilio requires their SDK installed through Composer
+https://www.twilio.com/docs/libraries/php
+
+Installed Composer (package manager for PHP)
+https://getcomposer.org/download/
+
+Installed Twilio SDK
+
+Install dotenv library to store environment variables.
+https://www.youtube.com/watch?v=txGL-Ld9zD8
+
+errors passing from env to php file. Not sure why. Hardcoded api key for now.
+
+SSL certificate error documentation:
+https://support.twilio.com/hc/en-us/articles/235279367-Twilio-PHP-helper-library-SSL-certificate-problem-on-Windows
+
+PHP not returning error codes for 500/fatal
+https://stackoverflow.com/questions/1555862/how-can-i-get-php-to-return-500-upon-encountering-a-fatal-exception
